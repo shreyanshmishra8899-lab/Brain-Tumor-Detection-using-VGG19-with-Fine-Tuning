@@ -1,0 +1,14 @@
+# Folders/files to ignore
+# Trained Model 
+best_model_vgg19.h5
+
+# Data and Logs
+dataset/
+Data/
+logs/
+
+# Environment files
+.ipynb_checkpoints
+__pycache__/
+venv/
+.DS_Store
