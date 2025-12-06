@@ -1,0 +1,10 @@
+# Essential Libraries
+tensorflow
+keras
+numpy
+pandas
+opencv-python # cv2
+matplotlib
+seaborn
+scikit-learn # sklearn
+Pillow # PIL
